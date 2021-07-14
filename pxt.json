@@ -1,6 +1,6 @@
 {
     "name": "sloth",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "sloth:bit from sunfounder",
     "license": "MIT",
     "dependencies": {
@@ -14,7 +14,7 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": true,
+    "public": false,
     "disablesVariants": [
         "mbdal"
     ],
